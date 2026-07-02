@@ -19,7 +19,7 @@
 * jestExample.test.js
 
 ## B - Exercises folder
-### Control flow exercises and test
+### Control flow exercises and tests
 1. Max of two numbers
 2. Landscape or portrait
 3. FizzBuzz

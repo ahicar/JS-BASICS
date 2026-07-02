@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1783028943120" clover="3.2.0">
-  <project timestamp="1783028943120" name="All files">
-    <metrics statements="64" coveredstatements="64" conditionals="18" coveredconditionals="16" methods="7" coveredmethods="7" elements="89" coveredelements="87" complexity="0" loc="64" ncloc="64" packages="2" files="4" classes="4"/>
+<coverage generated="1783034709296" clover="3.2.0">
+  <project timestamp="1783034709296" name="All files">
+    <metrics statements="99" coveredstatements="99" conditionals="27" coveredconditionals="25" methods="9" coveredmethods="9" elements="135" coveredelements="133" complexity="0" loc="99" ncloc="99" packages="2" files="6" classes="6"/>
     <package name="examples">
       <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="jestExample.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/examples/jestExample.js">
@@ -21,7 +21,48 @@
       </file>
     </package>
     <package name="exercises">
-      <metrics statements="52" coveredstatements="52" conditionals="16" coveredconditionals="14" methods="5" coveredmethods="5"/>
+      <metrics statements="87" coveredstatements="87" conditionals="25" coveredconditionals="23" methods="7" coveredmethods="7"/>
+      <file name="demeritus.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/demeritus.js">
+        <metrics statements="19" coveredstatements="19" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+      <file name="evodNumbers.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/evodNumbers.js">
+        <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="16" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
       <file name="fizzBuzz.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/fizzBuzz.js">
         <metrics statements="18" coveredstatements="18" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
