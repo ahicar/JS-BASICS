@@ -11,3 +11,7 @@
 * InstrumentRecognition.js is an example of using 'switch...case'
 * monthSelect.js is an example of 'for' loops
 * whileImAlive.js is an example of 'while' loops
+
+#### added jest example 
+*jestExample.js
+*jestExample.test.js
