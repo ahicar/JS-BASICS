@@ -16,3 +16,30 @@
      console.log("Good night!");
  }  
  
+//second example
+
+if (monthNumber === 1){
+    console.log(`month name is: January`);
+} else if (monthNumber === 2){
+    console.log(`month name is: February`);
+} else if (monthNumber === 3){
+    console.log(`month name is: March`);
+} else if (monthNumber === 4){
+    console.log(`month name is: April`);
+} else if (monthNumber === 5){
+    console.log(`month name is: May`);
+} else if (monthNumber === 6){
+    console.log(`month name is: June`);
+} else if (monthNumber === 7){
+    console.log(`month name is: July`);
+} else if (monthNumber === 8){
+    console.log(`month name is: August`);
+} else if (monthNumber === 9){
+    console.log(`month name is: September`);
+} else if (monthNumber === 10){
+    console.log(`month name is: October`);
+} else if (monthNumber === 11){
+    console.log(`month name is: November`);
+} else if (monthNumber === 12){
+    console.log(`month name is: December`);
+}   
