@@ -19,9 +19,9 @@
 * jestExample.test.js
 
 ## B - Exercises folder
-### Control flow exercises
+### Control flow exercises and test
 1. Max of two numbers
-2. Lansdcape or portrait
+2. Landscape or portrait
 3. FizzBuzz
 4. Demerit points
 5. Even and odd numbers
