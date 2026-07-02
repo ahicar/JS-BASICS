@@ -1,5 +1,5 @@
 # JS-BASICS
-## Examples and Exercises from code with Mosh: Ultimate JavaScript Part 1: Fundamentals
+## Examples and Exercises from code with Mosh: [Ultimate JavaScript Part 1: Fundamentals]:https://codewithmosh.com/p/javascript-basics-for-beginners
 
 ### examples folder
 
