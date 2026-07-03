@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1783034709296" clover="3.2.0">
-  <project timestamp="1783034709296" name="All files">
-    <metrics statements="99" coveredstatements="99" conditionals="27" coveredconditionals="25" methods="9" coveredmethods="9" elements="135" coveredelements="133" complexity="0" loc="99" ncloc="99" packages="2" files="6" classes="6"/>
+<coverage generated="1783112550229" clover="3.2.0">
+  <project timestamp="1783112550229" name="All files">
+    <metrics statements="193" coveredstatements="190" conditionals="43" coveredconditionals="38" methods="14" coveredmethods="14" elements="250" coveredelements="242" complexity="0" loc="193" ncloc="193" packages="2" files="10" classes="10"/>
     <package name="examples">
       <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="jestExample.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/examples/jestExample.js">
@@ -21,7 +21,26 @@
       </file>
     </package>
     <package name="exercises">
-      <metrics statements="87" coveredstatements="87" conditionals="25" coveredconditionals="23" methods="7" coveredmethods="7"/>
+      <metrics statements="181" coveredstatements="178" conditionals="41" coveredconditionals="36" methods="12" coveredmethods="12"/>
+      <file name="countTruthy.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/countTruthy.js">
+        <metrics statements="16" coveredstatements="16" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="29" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
       <file name="demeritus.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/demeritus.js">
         <metrics statements="19" coveredstatements="19" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
@@ -84,6 +103,47 @@
         <line num="17" count="1" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
       </file>
+      <file name="gradesCalc.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/gradesCalc.js">
+        <metrics statements="38" coveredstatements="35" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="24" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
       <file name="landscapeOrPortrait.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/landscapeOrPortrait.js">
         <metrics statements="13" coveredstatements="13" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
         <line num="1" count="2" type="cond" truecount="1" falsecount="0"/>
@@ -123,6 +183,52 @@
         <line num="19" count="1" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="stringProps.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/stringProps.js">
+        <metrics statements="21" coveredstatements="21" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="sumOfMutiplesOfThreeAndFive.js" path="/Users/icarito_mac/Documents/Programming projects/js-basics/exercises/sumOfMutiplesOfThreeAndFive.js">
+        <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="51" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="25" type="stmt"/>
+        <line num="14" count="25" type="stmt"/>
+        <line num="15" count="51" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
       </file>
     </package>
   </project>
