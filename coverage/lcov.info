@@ -26,7 +26,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:exercises/countTruthy.js
+SF:exercises/control flow/countTruthy.js
 FN:8,countTruthy
 FNF:1
 FNH:1
@@ -56,7 +56,7 @@ BRF:3
 BRH:3
 end_of_record
 TN:
-SF:exercises/demeritus.js
+SF:exercises/control flow/demeritus.js
 FN:7,checkSpeed
 FNF:1
 FNH:1
@@ -91,7 +91,7 @@ BRF:5
 BRH:5
 end_of_record
 TN:
-SF:exercises/evodNumbers.js
+SF:exercises/control flow/evodNumbers.js
 FN:6,showNumbers
 FNF:1
 FNH:1
@@ -122,7 +122,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:exercises/fizzBuzz.js
+SF:exercises/control flow/fizzBuzz.js
 FN:10,fizzBuzz
 FNF:1
 FNH:1
@@ -160,7 +160,7 @@ BRF:9
 BRH:9
 end_of_record
 TN:
-SF:exercises/gradesCalc.js
+SF:exercises/control flow/gradesCalc.js
 FN:21,calculateGrade
 FN:30,calculateAverage
 FNF:2
@@ -217,7 +217,7 @@ BRF:6
 BRH:3
 end_of_record
 TN:
-SF:exercises/landscapeOrPortrait.js
+SF:exercises/control flow/landscapeOrPortrait.js
 FN:1,isLandscape
 FN:5,isLandscapeTwo
 FNF:2
@@ -246,7 +246,7 @@ BRF:3
 BRH:3
 end_of_record
 TN:
-SF:exercises/maxOfTwo.js
+SF:exercises/control flow/maxOfTwo.js
 FN:4,maxOfTwo
 FN:12,max
 FNF:2
@@ -284,7 +284,69 @@ BRF:4
 BRH:2
 end_of_record
 TN:
-SF:exercises/stringProps.js
+SF:exercises/control flow/numeriPrimi.js
+FN:4,showPrimes
+FN:9,isPrime
+FNF:2
+FNH:2
+FNDA:2,showPrimes
+FNDA:48,isPrime
+DA:1,1
+DA:2,1
+DA:3,1
+DA:4,2
+DA:5,2
+DA:6,2
+DA:7,2
+DA:8,1
+DA:9,48
+DA:10,48
+DA:11,48
+DA:12,206
+DA:13,18
+DA:14,18
+DA:15,18
+DA:16,1
+LF:16
+LH:16
+BRDA:4,0,0,2
+BRDA:6,1,0,48
+BRDA:6,2,0,18
+BRDA:9,3,0,48
+BRDA:11,4,0,206
+BRDA:12,5,0,30
+BRDA:12,6,0,18
+BRF:7
+BRH:7
+end_of_record
+TN:
+SF:exercises/control flow/showThemS.js
+FN:3,showStars
+FNF:1
+FNH:1
+FNDA:1,showStars
+DA:1,1
+DA:2,1
+DA:3,1
+DA:4,1
+DA:5,5
+DA:6,5
+DA:7,5
+DA:8,5
+DA:9,5
+DA:10,1
+DA:11,1
+DA:12,1
+LF:12
+LH:12
+BRDA:3,0,0,1
+BRDA:4,1,0,5
+BRDA:7,2,0,15
+BRF:3
+BRH:3
+end_of_record
+TN:
+SF:exercises/control flow/stringProps.js
 FN:13,showStringProperties
 FNF:1
 FNH:1
@@ -319,7 +381,7 @@ BRF:3
 BRH:3
 end_of_record
 TN:
-SF:exercises/sumOfMutiplesOfThreeAndFive.js
+SF:exercises/control flow/sumOfMutiplesOfThreeAndFive.js
 FN:8,sum
 FNF:1
 FNH:1
